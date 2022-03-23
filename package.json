@@ -80,7 +80,7 @@
     "imagemin-optipng": "^5.2.1",
     "imagemin-svgo": "^6.0.0",
     "markdown-toc": "^1.2.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "postcss": "^7.0.1",
     "prismjs": "^1.15.0",
     "react": "^16.4.1",
