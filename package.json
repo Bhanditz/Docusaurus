@@ -93,7 +93,7 @@
     "tcp-port-used": "^0.1.2",
     "tiny-lr": "^1.1.1",
     "tree-node-cli": "^1.2.5",
-    "truncate-html": "^1.0.0"
+    "truncate-html": "^1.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.5",
