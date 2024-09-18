@@ -68,7 +68,7 @@
     "crowdin-cli": "^0.3.0",
     "cssnano": "^3.10.0",
     "escape-string-regexp": "^1.0.5",
-    "express": "^4.15.3",
+    "express": "^4.20.0",
     "feed": "^1.1.0",
     "fs-extra": "^5.0.0",
     "gaze": "^1.1.2",
